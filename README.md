@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![AndroX2 gitstats](https://github-readme-stats.vercel.app/api?username=AndroX2&layout=compact&theme=calm&count_private=true)](https://github.com/AndroX2)
+
+
+![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroX2&layout=large&theme=calm&count_private=true)
